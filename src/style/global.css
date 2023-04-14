@@ -6,13 +6,31 @@
   color: antiquewhite;
 }
 
+.social-media a {
+  color: white;
+}
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
 }
 
+.jumbotron h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+#about .aboutMe {
+  font-family: 'Playfair Display', serif;
+}
+
 #projects {
   background-color: #e2edff;
+}
+#projects h2 {
+  font-family: 'Playfair Display', serif;
+}
+
+#contact .contactTitle {
+  font-family: 'Playfair Display', serif;
 }
 
 section {
