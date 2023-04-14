@@ -1,4 +1,10 @@
 /*? global clearing */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@900&display=swap');
+
+.navbar-brand {
+  font-family: 'Playfair Display', serif;
+  color: antiquewhite;
+}
 
 .jumbotron {
   padding-top: 6rem;
